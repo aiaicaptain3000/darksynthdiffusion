@@ -1,2 +1,2 @@
-# darksynthdiffusion
+# Darksynth Diffusion
 Disco Diffusion fork
